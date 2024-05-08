@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-netlify",
+  "version": "1.0.0",
+  "description": "Screenshots and caching on Netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
